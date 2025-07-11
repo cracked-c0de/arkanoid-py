@@ -20,5 +20,5 @@ A modern remix of the classic Arkanoid game built with **Pygame**. Destroy brick
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/arkanoid-enhanced.git
-cd arkanoid-enhanced
+git clone https://github.com/cracked-c0de/arkanoid-py.git
+cd arkanoid-py
