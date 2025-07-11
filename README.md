@@ -15,12 +15,6 @@ A modern remix of the classic Arkanoid game built with **Pygame**. Destroy brick
 
 ---
 
-## 🖥️ Screenshots
-
-> _Insert screenshots here after running the game_
-
----
-
 ## 🚀 Getting Started
 
 ### 1. Clone the Repository
